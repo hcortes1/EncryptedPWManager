@@ -1,0 +1,6 @@
+# ignore virtual environment files 
+.venv/
+venv
+env 
+*.pass
+*.key
